@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rcs660s_uart_hw_arduino.h": "c",
+        "*.tcc": "c"
+    }
+}
